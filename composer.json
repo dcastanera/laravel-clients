@@ -1,5 +1,5 @@
 {
-    "name": "dcastanera/clients",
+    "name": "dcastanera/laravel-clients",
     "description": "Clients package for Laravel 5 that includes contacts and configuration items.",
     "type": "library",
     "authors": [
