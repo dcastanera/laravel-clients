@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "dcastanera/notes": "*"
+        "dcastanera/laravel-notes": "*"
     },
     "autoload": {
         "classmap": [
