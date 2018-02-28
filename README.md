@@ -8,6 +8,10 @@ more than one client assigned to a user.
 This package makes the following objects and variables available:  
 
 - Client
-..- name
-..- address
-..- address2
+..* name  
+..* address  
+..* city  
+..* state  
+..* zip  
+..* phone  
+..* website   
