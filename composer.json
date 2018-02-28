@@ -1,0 +1,23 @@
+{
+    "name": "dcastanera/clients",
+    "description": "Clients package for Laravel 5 that includes contacts and configuration items.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Dan Castanera",
+            "email": "dcastanera@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "dcastanera/notes": "*"
+    },
+    "autoload": {
+        "classmap": [
+            "src"
+        ],
+        "psr-4": {
+            "DCastanera\\Clients\\": "src/"
+        }
+    }
+}
