@@ -36,6 +36,8 @@ This package makes the following objects and variables available:
 
 ## Installation
 
+>This package requires the _**dcastanera/laravel-notes**_ package. If you are not currently using the notes package, please follow this link to go install that first. [Install Laravel Notes](https://github.com/dcastanera/laravel-notes/blob/master/README.md)
+
 #### Composer
 In order to install this package you need to use composer. Simply type the
 following into your command line interface:
